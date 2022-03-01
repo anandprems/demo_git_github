@@ -1,6 +1,7 @@
 a = 10
 b = 15
 c = 25
-d = 35
-d = a + b + c
+d = 12
+e = 10
+f = a + b + c + d + e
 print('Addition of three numbers',d)
